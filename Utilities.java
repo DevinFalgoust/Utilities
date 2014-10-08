@@ -1,4 +1,4 @@
-package main;
+package devinfalgoust.util;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -13,6 +13,9 @@ public class Utilities {
 	/**
 	 * This function takes a string (text) and splits it into multiple substrings
 	 * based upon the size passed (newStringSize) and returns them in a List
+	 * 
+	 * @author Guillaume Polet
+	 * http://stackoverflow.com/questions/9276639/java-how-to-split-a-string-by-a-number-of-characters
 	 * 
 	 * @param text - the array you wish to split
 	 * @param newStringSize - the max size of the new arrays
